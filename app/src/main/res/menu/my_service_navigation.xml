@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_msg"
+        android:icon="@drawable/ic_e_mail_envelope"
+        android:title="Message"/>
+    <item
+        android:id="@+id/navigation_my_review"
+        android:icon="@drawable/ic_consulting_message"
+        android:title="My Review"/>
+    <item
+        android:id="@+id/navigation_payment"
+        android:icon="@drawable/ic_debit_card"
+        android:title="Payment Option"/>
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_help"
+        android:title="Help"/>
+</menu>
